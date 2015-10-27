@@ -86,3 +86,14 @@ social:
 
 duoshuo_shortname: lifesider
 baidu_analytics: a6b512c7047c4baa802f36a0b351616a
+
+# title, chinese available
+links_title: Links
+# links
+links:
+  Andrew Adams: http://people.csail.mit.edu/abadams/
+  VideoLan: http://www.videolan.org/
+  Jia Jiaya: http://www.cse.cuhk.edu.hk/~leojia/
+  ImageShop: http://www.cnblogs.com/Imageshop/
+  Disney: http://www.disneyresearch.com/
+  IPOL: http://www.ipol.im/
