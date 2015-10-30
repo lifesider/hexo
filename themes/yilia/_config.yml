@@ -50,6 +50,7 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
+  信笔论金: http://xinbee.cn
   Andrew Adams: http://people.csail.mit.edu/abadams/
   VideoLan: http://www.videolan.org/
   Jia Jiaya: http://www.cse.cuhk.edu.hk/~leojia/
