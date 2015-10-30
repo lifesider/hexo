@@ -33,7 +33,7 @@ open_in_new: false
 
 # Miscellaneous
 baidu_analytics: a6b512c7047c4baa802f36a0b351616a
-favicon: /favicon.png
+favicon: /images/avatar.png
 
 #你的头像url
 avatar: /images/avatar.png
