@@ -1,4 +1,4 @@
-title: 赞助
+title: 向我打赏
 date: 2015-10-29 21:06:03
 comments: false
 ---
