@@ -2,6 +2,8 @@
 menu:
   主页: /
   所有文章: /archives
+  投资专栏: /categories/投资
+  图像处理: /categories/图像处理
   向我打赏: /donate
   # 随笔: /tags/随笔
 
@@ -26,7 +28,7 @@ fancybox: true
 mathjax: true
 
 # 是否开启动画效果
-animate: false
+animate: true
 
 # 是否在新窗口打开链接
 open_in_new: false
