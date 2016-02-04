@@ -10,6 +10,6 @@ categories: 图像处理
 
 效果展示：
 
-![feat](images/beaver_feat.png)
-![match](images/Matches.png)
+![feat](/images/beaver_feat.png)
+![match](/images/Matches.png)
 
