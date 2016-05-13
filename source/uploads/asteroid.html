@@ -1,3 +1,7 @@
+layout: false
+title: "小行星"
+date: 2016-05-13 14:33:48
+---
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -31,7 +35,7 @@
 
 		<div id="container"></div>
 
-		<script src="three.min.js"></script>
+		<script src="//cdn.bootcss.com/three.js/r76/three.min.js"></script>
 
 		<script>
 
@@ -61,7 +65,7 @@
 				geometry.scale( -1, 1, 1 );
 
 				var material = new THREE.MeshBasicMaterial( {
-					map: new THREE.TextureLoader().load( 'asteroid.jpg' )
+					map: new THREE.TextureLoader().load( "images/asteroid.jpg" )
 				} );
 
 				mesh = new THREE.Mesh( geometry, material );
