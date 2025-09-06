@@ -100,3 +100,23 @@ links:
   IPOL: http://www.ipol.im/
   Raanan Fattal: http://www.cs.huji.ac.il/~raananf/
   paulbourke: http://paulbourke.net
+
+# feed
+# Dependencies: https://github.com/hexojs/hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+
+  symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+  exclude_codeblock: false
+  awl: 2    
+  wpm: 275
+  suffix: "mins."
+  
