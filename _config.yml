@@ -4,11 +4,11 @@
 
 # Site
 title: 走在人生边上
-subtitle: 天道酬勤
+subtitle: 格物致知
 description:
 author: 赖守波
 language: zh-Hans
-timezone:
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
